@@ -12,6 +12,13 @@ This is what the expense tracking web app looks like:
 
 The expense tracking web app allows a user to add and delete transactions and maintain a count of how much money the user may have based on the amounts inputted. It turned out successful because of the fact that it was a step by step tutorial, but it took me a very very long time to complete despite the fact that the tutorial was about an hour long. I spent most of the time trying to understand what the code was doing and would pause the tutorial to attempt to work out sections of the project on my own before looking back at the tutorial video for help.
 
+I spent a lot of time looking at other resources besides the tutorial I followed. Some of these sources include:
+- https://www.youtube.com/watch?v=35lXWvCuM8o
+- https://www.youtube.com/watch?v=mxK8b99iJTg
+- https://www.freecodecamp.org/news/react-budget-tracker-app/
+- https://www.freecodecamp.org/news/using-the-react-context-api-getting-started-2018/
+
+
 ## What you learned
 1. I learned how to properly use React Hooks
 2. Also learned about Context API and how it works
