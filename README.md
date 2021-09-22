@@ -10,7 +10,11 @@ This is what the expense tracking web app looks like:
 
 ![alt text](screenshots/expense-tracker-screenshot.png)
 
-The expense tracking web app allows a user to add and delete transactions and maintain a count of how much money the user may have based on the amounts inputted. It turned out successful because of the fact that it was a step by step tutorial, but it took me a very very long time to complete despite the fact that the tutorial was about an hour long. I spent most of the time trying to understand what the code was doing and would pause the tutorial to attempt to work out sections of the project on my own before looking back at the tutorial video for help.
+Transactions could be added such as expenses would show up as negative and red, while income or profit would show up as positive and green. The total balance would indicate the total amount of expenses and income a person may have. These transactions can be deleted by hovering over the particular transaction - a red square with an 'x' will pop out and would only need to be clicked to remove the transaction.
+
+![alt text](screenshots/add-transactions.png)
+
+The expense tracking web app allows a user to add and delete transactions and maintain a count of how much money the user may have based on the amounts inputted. It turned out successful because of the fact that it was a step by step tutorial, but it took me a very very long time to complete despite the fact that the tutorial was about an hour long. I spent most of the time trying to understand what the code was doing and would pause the tutorial to attempt to work out sections of the project on my own before looking back at the tutorial video for help. To test it out, clone the repo and run 'npm start.'
 
 I spent a lot of time looking at other resources besides the tutorial I followed. Some of these sources include:
 - https://www.youtube.com/watch?v=35lXWvCuM8o
