@@ -2,11 +2,22 @@
 
 ## What Did I Attempt To Build
 
-For the hack-a-thing, I ended up working through a tutorial where I used React and Context API to create a expense tracking web app. I've never been very comfortable with React (I've only done one small project using React, where afterwards, I still felt like I had no idea what I was doing and how to use the framework) and wanted to take this opportunity to learn and apply React Hooks and Context API for the first time, as well as build my confidence in using React as a framework.
+For the hack-a-thing, I ended up working through a tutorial where I used React and Context API to create a expense tracking web app. I've never been very comfortable with React (I've only done one small project using React, where afterwards, I still felt like I had no idea what I was doing and how to use the framework) and wanted to take this opportunity to learn and apply React Hooks and Context API for the first time, as well as build my confidence in using React as a framework. I worked on this on my own.
 
 This is the link to the tutorial that I went through: https://www.youtube.com/watch?v=XuFDcZABiDQ&list=PLillGF-RfqbY3c2r0htQyVbDJJoBFE6Rb
 
+This is what the expense tracking web app looks like:
+
+![alt text](screenshots/expense-tracker-screenshot.png)
+
 The expense tracking web app allows a user to add and delete transactions and maintain a count of how much money the user may have based on the amounts inputted. It turned out successful because of the fact that it was a step by step tutorial, but it took me a very very long time to complete despite the fact that the tutorial was about an hour long. I spent most of the time trying to understand what the code was doing and would pause the tutorial to attempt to work out sections of the project on my own before looking back at the tutorial video for help.
+
+I spent a lot of time looking at other resources besides the tutorial I followed. Some of these sources include:
+- https://www.youtube.com/watch?v=35lXWvCuM8o
+- https://www.youtube.com/watch?v=mxK8b99iJTg
+- https://www.freecodecamp.org/news/react-budget-tracker-app/
+- https://www.freecodecamp.org/news/using-the-react-context-api-getting-started-2018/
+
 
 ## What you learned
 1. I learned how to properly use React Hooks
