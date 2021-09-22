@@ -2,7 +2,7 @@
 
 ## What Did I Attempt To Build
 
-For the hack-a-thing, I ended up working through a tutorial where I used React and Context API to create a expense tracking web app. I've never been very comfortable with React (I've only done one small project using React, where afterwards, I still felt like I had no idea what I was doing and how to use the framework) and wanted to take this opportunity to learn and apply React Hooks and Context API for the first time, as well as build my confidence in using React as a framework.
+For the hack-a-thing, I ended up working through a tutorial where I used React and Context API to create a expense tracking web app. I've never been very comfortable with React (I've only done one small project using React, where afterwards, I still felt like I had no idea what I was doing and how to use the framework) and wanted to take this opportunity to learn and apply React Hooks and Context API for the first time, as well as build my confidence in using React as a framework. I worked on this on my own.
 
 This is the link to the tutorial that I went through: https://www.youtube.com/watch?v=XuFDcZABiDQ&list=PLillGF-RfqbY3c2r0htQyVbDJJoBFE6Rb
 
