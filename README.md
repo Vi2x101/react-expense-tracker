@@ -6,6 +6,10 @@ For the hack-a-thing, I ended up working through a tutorial where I used React a
 
 This is the link to the tutorial that I went through: https://www.youtube.com/watch?v=XuFDcZABiDQ&list=PLillGF-RfqbY3c2r0htQyVbDJJoBFE6Rb
 
+This is what the expense tracking web app looks like:
+
+![alt text](screenshots/expense-tracker-screenshot.png)
+
 The expense tracking web app allows a user to add and delete transactions and maintain a count of how much money the user may have based on the amounts inputted. It turned out successful because of the fact that it was a step by step tutorial, but it took me a very very long time to complete despite the fact that the tutorial was about an hour long. I spent most of the time trying to understand what the code was doing and would pause the tutorial to attempt to work out sections of the project on my own before looking back at the tutorial video for help.
 
 ## What you learned
